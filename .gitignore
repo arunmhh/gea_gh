@@ -2,3 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+renv/
+renv/library/
+renv/cache/
+# Ignore large data files
+*.csv
+*.xlsx
+*.Rproj.user/
