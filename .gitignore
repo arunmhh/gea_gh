@@ -8,4 +8,4 @@ renv/cache/
 # Ignore large data files
 *.csv
 *.xlsx
-*.Rproj.user/
+#*.Rproj.user/
