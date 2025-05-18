@@ -1,11 +1,12 @@
+# RStudio and R session files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Ignore the whole renv folder (installed packages)
 renv/
-renv/library/
-renv/cache/
+
 # Ignore large data files
 *.csv
 *.xlsx
-#*.Rproj.user/
